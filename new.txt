@@ -1,0 +1,2 @@
+Nouveau\ document\ texte.txt  autonoura.txt  remot.txt	   test5.txt
+Nouveau\ dossier	      new.txt	     test2021.txt
