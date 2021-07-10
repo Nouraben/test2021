@@ -4,10 +4,4 @@
  R‚pertoire de C:\Users\samah\Desktop\test2021
 
 10/07/2021  20:32    <REP>          .
-10/07/2021  20:32    <REP>          ..
-10/07/2021  20:00                 0 Nouveau document texte.txt
-10/07/2021  20:32                 0 remot.txt
-10/07/2021  19:43               428 test2021.txt
-10/07/2021  19:51                12 test5.txt
-               4 fichier(s)              440 octets
-               2 R‚p(s)  200ÿ011ÿ923ÿ456 octets libres
+10/07/2021
